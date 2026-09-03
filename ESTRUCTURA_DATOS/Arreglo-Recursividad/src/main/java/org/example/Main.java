@@ -20,7 +20,7 @@ public class Main {
         }
         SubirBajar(Acensor, i + 1);
 
-        System.out.println("Esta en el " +  Acensor[i] + " Bajando al " + Acensor[Math.min(i - 1, 3)]);
+        System.out.println("Esta een el " +  Acensor[i] + " Bajando al " + Acensor[Math.min(i - 1, 3)]);
 
     }
 
